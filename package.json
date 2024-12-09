@@ -1,8 +1,7 @@
 {
   "name": "@coji/clerk-react-router",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Clerk for React Router v7",
-  "type": "module",
   "sideEffects": false,
   "exports": {
     ".": {
