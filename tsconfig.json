@@ -21,7 +21,7 @@
     "allowJs": true,
     "target": "ES2022",
     "noEmitOnError": false,
-    "incremental": true
+    "incremental": false
   },
   "include": ["src"]
 }
