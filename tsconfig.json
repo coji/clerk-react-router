@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "baseUrl": ".",
+    "lib": ["es2022", "dom"],
+    "types": ["node"],
+    "jsx": "react",
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "importHelpers": true,
+    "declaration": true,
+    "declarationMap": false,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "resolveJsonModule": true,
+    "sourceMap": false,
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "allowJs": true,
+    "target": "ES2022",
+    "noEmitOnError": false,
+    "incremental": true
+  },
+  "include": ["src"]
+}
